@@ -1,0 +1,22 @@
+.bg-dark {
+    background-color: #f8f9fa !important;
+}
+.navbar-dark .navbar-brand {
+    color: #383d41 !important;
+}
+.navbar-dark .navbar-nav >.nav-link, .navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #343a40 !important;
+}
+.navbar-nav {
+	margin-left: 650px !important;
+	align-items: right !important;
+	margin-right: none !important;
+}
+.navbar-brand{
+	align-items: left !important;
+	margin-left: 5px !important;
+}
+
+.navbar-toggler-icon{
+
+}
